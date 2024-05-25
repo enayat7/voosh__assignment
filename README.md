@@ -2,7 +2,7 @@
 # first install node environment to run javascript code
 # run npm i      - it will download all dependencies
 # after that go to src directory and then run -- node index.js  or nodemon index.js
-# Here we go, we can test all aour endpoints
+# Here we go, we can test all our endpoints
 
 
 
