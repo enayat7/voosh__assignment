@@ -44,6 +44,6 @@ EndPoints are
 # finally one important note while uploading photo
 # I dont know why this error occur in the file  multer.middleware.js  in line no.8
 # cb(null, "../public") this line works when test locally in macbook
-# cb(null, "./public") this changes work while hosting. But the exact reasion i dont know.
+# cb(null, "./public") this changes work while hosting. But the exact reason i dont know.
 
 
