@@ -11,27 +11,27 @@ so baseUrl_sample will be  http://localhost:3000
 
 EndPoints are
 
-1. /google
+# 1. /google
 // for authentication using googel
 
-2. /register
+# 2. /register
 //  to register user with name, email password, isProfile, bio, number,
 
-3.  /login
+# 3.  /login
 // require email and password  or if you have valid jwt token
 
-4.  /all-profile-details
+# 4.  /all-profile-details
 // if user is admin he can show all public and private profile
 // if not admin then will only able to see public profile
 
-4.  /upload-edit-photo
+# 5.  /upload-edit-photo
 // user can upload the photo
 // user also can change the photo using same url
 
-5.  edit-profile
+# 6.  edit-profile
 // user can edit all profile details 
 
-6. /make-admin/:id
+# 7. /make-admin/:id
 // make any user admin
 
 
