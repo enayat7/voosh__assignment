@@ -73,6 +73,7 @@ const userLogin = async(req,res) =>{
       // Executed after successful authentication
       const token = jwt.sign({ userID: req.user._id, email:req.user.email }, process.env.JWT_SECRET_KEY, { expiresIn: process.env.EXPIRY_TIME })
       res.send({
+        "user": req.user,
         'token':token
       }); // Assuming you have a profile page
     });
