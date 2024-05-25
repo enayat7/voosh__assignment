@@ -37,7 +37,6 @@ EndPoints are
 
 # I have also uplade it on render you can test all the endpoints and it base url is 
 //BASE_URL of hosted backend on render website
-https://voosh-assignment-0pcm.onrender.com
-
+#https://voosh-assignment-1.onrender.com
 //you can test all the end points in the value
 
