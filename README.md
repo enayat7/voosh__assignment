@@ -37,6 +37,13 @@ EndPoints are
 
 # I have also uplade it on render you can test all the endpoints and it base url is 
 //BASE_URL of hosted backend on render website
-#https://voosh-assignment-1.onrender.com
+# https://voosh-assignment-2.onrender.com
 //you can test all the end points in the value
+
+
+#finally one important note while uploading photo
+# I dont know why this error occur in the file  multer.middleware.js  in line no.8
+# cb(null, "../public") this line works when test locally in macbook
+# cb(null, "./public") this changes work while hosting. But the exact reasion i dont know.
+
 
