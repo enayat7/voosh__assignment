@@ -36,9 +36,9 @@ EndPoints are
 
 
 # I have also uplade it on render you can test all the endpoints and it base url is 
-//BASE_URL of hosted backend on render website
+# BASE_URL of hosted backend on render website
 # https://voosh-assignment-2.onrender.com
-//you can test all the end points in the value
+# you can test all the end points in the value
 
 
 #finally one important note while uploading photo
